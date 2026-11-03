@@ -4,17 +4,6 @@
 
 Construindo minha jornada na tecnologia por meio de estudos, projetos práticos e aprendizado contínuo. 🚀
 
-<p align="left">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="(https://www.linkedin.com/in/arthur-pessoa-da-silva-6545b1376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMo7%2FkeAqTCCnIDD02sw1Aw%3D%3D)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
@@ -49,8 +38,6 @@ Projeto acadêmico desenvolvido em parceria com um colega da faculdade. A propos
 
 **Contexto:** Projeto universitário desenvolvido em dupla.
 
-🔗 [Acessar repositório](LINK-VIDAPET)
-
 ### 🎓 CyberTech — Plataforma Educacional
 
 Plataforma educacional desenvolvida em grupo durante um estágio acadêmico da faculdade. O objetivo foi criar um ambiente web para disponibilizar conteúdos de aprendizagem.
@@ -58,8 +45,6 @@ Plataforma educacional desenvolvida em grupo durante um estágio acadêmico da f
 O projeto envolveu o desenvolvimento da interface, integração com banco de dados e funcionalidades voltadas à experiência dos usuários.
 
 **Tecnologias:** React, HTML, CSS, Firebase, JavaScript e GitHub.
-
-🔗 [Acessar repositório](LINK-CYBERTECH)
 
 ### 🏦 Banco em Python
 
