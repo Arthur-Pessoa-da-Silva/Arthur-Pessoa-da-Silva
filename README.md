@@ -8,7 +8,7 @@ Construindo minha jornada na tecnologia por meio de estudos, projetos práticos 
   <a href="https://github.com/SEU-USUARIO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="SEU-LINKEDIN">
+  <a href="(https://www.linkedin.com/in/arthur-pessoa-da-silva-6545b1376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMo7%2FkeAqTCCnIDD02sw1Aw%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -32,7 +32,6 @@ Construindo minha jornada na tecnologia por meio de estudos, projetos práticos 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -68,25 +67,11 @@ Projeto desenvolvido para praticar lógica de programação e fundamentos da lin
 
 **Tecnologia:** Python.
 
-🔗 [Acessar repositório](LINK-BANCO-PYTHON)
-
 ### 🌐 Portfólio pessoal
 
 Projeto voltado à apresentação do meu perfil profissional, conhecimentos e trabalhos desenvolvidos, reunindo minhas informações em uma página web.
 
 **Tecnologias:** HTML, CSS e JavaScript.
-
-🔗 [Acessar repositório](LINK-PORTFOLIO)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
-</div>
 
 ---
 
