@@ -74,6 +74,7 @@ Projeto voltado à apresentação do meu perfil profissional, conhecimentos e tr
 
 
 📧 **E-mail:** arthurpessoadasilva192@gmail.com
+
 📧 **Linkedin:** Arthur Pessoa da Silva
 
 ---
